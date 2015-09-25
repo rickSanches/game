@@ -1,0 +1,24 @@
+<Stats>
+        <HP>75</HP>
+        <UpDmg>10</UpDmg>
+        <LowDmg>3</LowDmg>
+        <Armor>6</Armor>
+        <Dodge>5</Dodge>
+        <Hit>5</Hit>
+        <Will>80</Will>
+        <Initiative>5</Initiative>
+        <FireRes>49</FireRes>
+        <ColdRes>49</ColdRes>
+        <NatureRes>42</NatureRes>
+        <ShadowRes>48</ShadowRes>
+        <HolyRes>40</HolyRes>
+        <CritChanse>5</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>true</Range>
+        <TypeRace>orc</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>VoodooDoctor</Name>
+        <Ability>ChainHeal</Ability>
+        <Ability>GlayArmor</Ability>
+        <Ability>AmplifaireDamage</Ability>
+</Stats>

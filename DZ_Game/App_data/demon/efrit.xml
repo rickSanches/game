@@ -1,0 +1,22 @@
+<Stats>
+        <HP>110</HP>
+        <UpDmg>35</UpDmg>
+        <LowDmg>28</LowDmg>
+        <Armor>physicalimun</Armor>
+        <Dodge>5</Dodge>
+        <Hit>10</Hit>
+        <Will>90</Will>
+        <Initiative>3</Initiative>
+        <FireRes>immun</FireRes>
+        <ColdRes>0</ColdRes>
+        <NatureRes>10</NatureRes>
+        <ShadowRes>35</ShadowRes>
+        <HolyRes>15</HolyRes>
+        <CritChanse>20</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>demon</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>Efrit</Name>
+        <Ability>FireAbsorb</Ability>
+</Stats>

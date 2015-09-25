@@ -1,0 +1,22 @@
+<Stats>
+        <HP>65</HP>
+        <UpDmg>10</UpDmg>
+        <LowDmg>1</LowDmg>
+        <Armor>physicalimmun</Armor>
+        <Dodge>1</Dodge>
+        <Hit>1</Hit>
+        <Will>30</Will>
+        <Initiative>4</Initiative>
+        <FireRes>25</FireRes>
+        <ColdRes>25</ColdRes>
+        <NatureRes>20</NatureRes>
+        <ShadowRes>25</ShadowRes>
+        <HolyRes>5</HolyRes>
+        <CritChanse>15</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>undead</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>Ghost</Name>
+        <Ability>Regen</Ability>
+</Stats>

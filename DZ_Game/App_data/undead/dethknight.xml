@@ -1,0 +1,24 @@
+<Stats>
+        <HP>135</HP>
+        <UpDmg>20</UpDmg>
+        <LowDmg>13</LowDmg>
+        <Armor>16</Armor>
+        <Dodge>5</Dodge>
+        <Hit>5</Hit>
+        <Will>60</Will>
+        <Initiative>4</Initiative>
+        <FireRes>49</FireRes>
+        <ColdRes>49</ColdRes>
+        <NatureRes>42</NatureRes>
+        <ShadowRes>48</ShadowRes>
+        <HolyRes>40</HolyRes>
+        <CritChanse>15</CritChanse>
+        <CounterAttack>2</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>undead</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>DeathKnight</Name>
+        <Ability>PlagueBolt</Ability>
+        <Ability>StunBolt</Ability>
+        <Ability>DeffenceAura</Ability>
+</Stats>

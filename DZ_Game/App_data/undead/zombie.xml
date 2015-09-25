@@ -1,0 +1,22 @@
+<Stats>
+        <HP>145</HP>
+        <UpDmg>10</UpDmg>
+        <LowDmg>3</LowDmg>
+        <Armor>16</Armor>
+        <Dodge>5</Dodge>
+        <Hit>3</Hit>
+        <Will>20</Will>
+        <Initiative>2</Initiative>
+        <FireRes>45</FireRes>
+        <ColdRes>55</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>30</HolyRes>
+        <CritChanse>30</CritChanse>
+        <CounterAttack>3</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>undead</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Zombie</Name>
+        <Ability>ArmorDecrease</Ability>
+</Stats>

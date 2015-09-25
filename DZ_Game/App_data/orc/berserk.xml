@@ -1,0 +1,22 @@
+<Stats>
+        <HP>105</HP>
+        <UpDmg>35</UpDmg>
+        <LowDmg>28</LowDmg>
+        <Armor>15</Armor>
+        <Dodge>37</Dodge>
+        <Hit>7</Hit>
+        <Will>50</Will>
+        <Initiative>4</Initiative>
+        <FireRes>20</FireRes>
+        <ColdRes>20</ColdRes>
+        <NatureRes>20</NatureRes>
+        <ShadowRes>15</ShadowRes>
+        <HolyRes>25</HolyRes>
+        <CritChanse>20</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>orc</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Berserk</Name>
+        <Ability>BloodRage</Ability>
+</Stats>

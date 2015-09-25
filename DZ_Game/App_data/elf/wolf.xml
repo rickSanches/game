@@ -1,0 +1,22 @@
+<Stats>
+        <HP>105</HP>
+        <UpDmg>15</UpDmg>
+        <LowDmg>9</LowDmg>
+        <Armor>10</Armor>
+        <Dodge>15</Dodge>
+        <Hit>5</Hit>
+        <Will>80</Will>
+        <Initiative>5</Initiative>
+        <FireRes>19</FireRes>
+        <ColdRes>29</ColdRes>
+        <NatureRes>42</NatureRes>
+        <ShadowRes>28</ShadowRes>
+        <HolyRes>20</HolyRes>
+        <CritChanse>20</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>elf</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Wolf</Name>
+        <Ability>AnimalRoar</Ability>
+</Stats>

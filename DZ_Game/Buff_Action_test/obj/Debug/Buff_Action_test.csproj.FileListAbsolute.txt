@@ -1,0 +1,6 @@
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\Buff_Action_test\bin\Debug\Buff_Action_test.exe.config
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\Buff_Action_test\obj\Debug\Buff_Action_test.csprojResolveAssemblyReference.cache
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\Buff_Action_test\bin\Debug\Buff_Action_test.exe
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\Buff_Action_test\bin\Debug\Buff_Action_test.pdb
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\Buff_Action_test\obj\Debug\Buff_Action_test.exe
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\Buff_Action_test\obj\Debug\Buff_Action_test.pdb

@@ -1,0 +1,23 @@
+<Stats>
+        <HP>105</HP>
+        <UpDmg>8</UpDmg>
+        <LowDmg>3</LowDmg>
+        <Armor>1</Armor>
+        <Dodge>7</Dodge>
+        <Hit>7</Hit>
+        <Will>10</Will>
+        <Initiative>4</Initiative>
+        <FireRes>30</FireRes>
+        <ColdRes>30</ColdRes>
+        <NatureRes>30</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>5</HolyRes>
+        <CritChanse>20</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>true</Range>
+        <TypeRace>undead</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>Banshi</Name>
+        <Ability>MindControl</Ability>
+        <Ability>DamnFire</Ability>
+</Stats>

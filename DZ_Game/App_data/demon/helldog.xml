@@ -1,0 +1,22 @@
+<Stats>
+        <HP>100</HP>
+        <UpDmg>20</UpDmg>
+        <LowDmg>15</LowDmg>
+        <Armor>12</Armor>
+        <Dodge>15</Dodge>
+        <Hit>8</Hit>
+        <Will>90</Will>
+        <Initiative>6</Initiative>
+        <FireRes>55</FireRes>
+        <ColdRes>45</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>40</HolyRes>
+        <CritChanse>10</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>demon</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>HellDog</Name>
+        <Ability>HellDogRoar</Ability>
+</Stats>

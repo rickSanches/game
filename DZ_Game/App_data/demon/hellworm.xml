@@ -1,0 +1,22 @@
+<Stats>
+        <HP>140</HP>
+        <UpDmg>25</UpDmg>
+        <LowDmg>22</LowDmg>
+        <Armor>19</Armor>
+        <Dodge>10</Dodge>
+        <Hit>10</Hit>
+        <Will>90</Will>
+        <Initiative>4</Initiative>
+        <FireRes>65</FireRes>
+        <ColdRes>25</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>35</ShadowRes>
+        <HolyRes>50</HolyRes>
+        <CritChanse>12</CritChanse>
+        <CounterAttack>2</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>demon</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>HellWorm</Name>
+        <Ability>PoisonTouch</Ability>
+</Stats>

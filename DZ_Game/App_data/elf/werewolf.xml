@@ -1,0 +1,23 @@
+<Stats>
+        <HP>85</HP>
+        <UpDmg>10</UpDmg>
+        <LowDmg>3</LowDmg>
+        <Armor>6</Armor>
+        <Dodge>5</Dodge>
+        <Hit>3</Hit>
+        <Will>50</Will>
+        <Initiative>5</Initiative>
+        <FireRes>15</FireRes>
+        <ColdRes>15</ColdRes>
+        <NatureRes>10</NatureRes>
+        <ShadowRes>15</ShadowRes>
+        <HolyRes>20</HolyRes>
+        <CritChanse>10</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>elf</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Werewolf</Name>
+        <Ability>PrimalInstinct</Ability>
+        <Ability>WolfForm</Ability>
+</Stats>

@@ -1,0 +1,24 @@
+<Stats>
+        <HP>155</HP>
+        <UpDmg>27</UpDmg>
+        <LowDmg>19</LowDmg>
+        <Armor>25</Armor>
+        <Dodge>10</Dodge>
+        <Hit>5</Hit>
+        <Will>80</Will>
+        <Initiative>3</Initiative>
+        <FireRes>45</FireRes>
+        <ColdRes>45</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>60</HolyRes>
+        <CritChanse>15</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>true</Range>
+        <TypeRace>human</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Palladin</Name>
+        <Ability>DispelMagic</Ability>
+        <Ability>ShiledWall</Ability>
+        <Ability>StunBolt</Ability>
+</Stats>

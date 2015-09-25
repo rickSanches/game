@@ -1,0 +1,22 @@
+<Stats>
+        <HP>95</HP>
+        <UpDmg>25</UpDmg>
+        <LowDmg>15</LowDmg>
+        <Armor>5</Armor>
+        <Dodge>15</Dodge>
+        <Hit>5</Hit>
+        <Will>50</Will>
+        <Initiative>5</Initiative>
+        <FireRes>15</FireRes>
+        <ColdRes>15</ColdRes>
+        <NatureRes>20</NatureRes>
+        <ShadowRes>15</ShadowRes>
+        <HolyRes>20</HolyRes>
+        <CritChanse>15</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>true</Range>
+        <TypeRace>orc</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>AxeTrower</Name>
+        <Ability>Regen</Ability>
+</Stats>

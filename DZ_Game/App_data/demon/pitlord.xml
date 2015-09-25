@@ -1,0 +1,22 @@
+<Stats>
+        <HP>135</HP>
+        <UpDmg>25</UpDmg>
+        <LowDmg>15</LowDmg>
+        <Armor>15</Armor>
+        <Dodge>15</Dodge>
+        <Hit>3</Hit>
+        <Will>90</Will>
+        <Initiative>3</Initiative>
+        <FireRes>55</FireRes>
+        <ColdRes>55</ColdRes>
+        <NatureRes>50</NatureRes>
+        <ShadowRes>55</ShadowRes>
+        <HolyRes>50</HolyRes>
+        <CritChanse>15</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>demon</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>PitLord</Name>
+        <Ability>StunKick</Ability>
+</Stats>

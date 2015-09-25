@@ -1,0 +1,22 @@
+<Stats>
+        <HP>70</HP>
+        <UpDmg>5</UpDmg>
+        <LowDmg>1</LowDmg>
+        <Armor>3</Armor>
+        <Dodge>1</Dodge>
+        <Hit>1</Hit>
+        <Will>90</Will>
+        <Initiative>5</Initiative>
+        <FireRes>65</FireRes>
+        <ColdRes>15</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>25</HolyRes>
+        <CritChanse>1</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>true</Range>
+        <TypeRace>demon</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>FireCaller</Name>
+        <Ability>FirecallserBall</Ability>
+</Stats>

@@ -1,0 +1,23 @@
+<Stats>
+        <HP>75</HP>
+        <UpDmg>15</UpDmg>
+        <LowDmg>8</LowDmg>
+        <Armor>7</Armor>
+        <Dodge>37</Dodge>
+        <Hit>7</Hit>
+        <Will>50</Will>
+        <Initiative>8</Initiative>
+        <FireRes>20</FireRes>
+        <ColdRes>20</ColdRes>
+        <NatureRes>20</NatureRes>
+        <ShadowRes>15</ShadowRes>
+        <HolyRes>25</HolyRes>
+        <CritChanse>20</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>human</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Rogue</Name>
+        <Ability>PoisonTouch</Ability>
+        <Ability>Blind</Ability>
+</Stats>

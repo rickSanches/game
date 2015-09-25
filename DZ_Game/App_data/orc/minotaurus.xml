@@ -1,0 +1,22 @@
+<Stats>
+        <HP>155</HP>
+        <UpDmg>28</UpDmg>
+        <LowDmg>18</LowDmg>
+        <Armor>15</Armor>
+        <Dodge>10</Dodge>
+        <Hit>1</Hit>
+        <Will>60</Will>
+        <Initiative>2</Initiative>
+        <FireRes>35</FireRes>
+        <ColdRes>45</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>40</HolyRes>
+        <CritChanse>20</CritChanse>
+        <CounterAttack>2</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>orc</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Minotaurus</Name>
+        <Ability>Splash</Ability>
+</Stats>

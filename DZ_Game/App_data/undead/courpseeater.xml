@@ -1,0 +1,23 @@
+<Stats>
+        <HP>165</HP>
+        <UpDmg>18</UpDmg>
+        <LowDmg>10</LowDmg>
+        <Armor>25</Armor>
+        <Dodge>1</Dodge>
+        <Hit>1</Hit>
+        <Will>30</Will>
+        <Initiative>2</Initiative>
+        <FireRes>35</FireRes>
+        <ColdRes>45</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>40</HolyRes>
+        <CritChanse>20</CritChanse>
+        <CounterAttack>2</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>undead</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>CourpseEater</Name>
+        <Ability>Splash</Ability>
+        <Ability>EatCourpse</Ability>
+</Stats>

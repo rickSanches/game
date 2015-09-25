@@ -1,0 +1,24 @@
+<Stats>
+        <HP>80</HP>
+        <UpDmg>8</UpDmg>
+        <LowDmg>6</LowDmg>
+        <Armor>2</Armor>
+        <Dodge>5</Dodge>
+        <Hit>3</Hit>
+        <Will>70</Will>
+        <Initiative>4</Initiative>
+        <FireRes>25</FireRes>
+        <ColdRes>25</ColdRes>
+        <NatureRes>20</NatureRes>
+        <ShadowRes>35</ShadowRes>
+        <HolyRes>50</HolyRes>
+        <CritChanse>5</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>true</Range>
+        <TypeRace>human</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>Priest</Name>
+        <Ability>Heal</Ability>
+        <Ability>CircleOfHealihg</Ability>
+        <Ability>Renew</Ability>
+</Stats>

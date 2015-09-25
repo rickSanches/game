@@ -1,0 +1,24 @@
+<Stats>
+        <HP>85</HP>
+        <UpDmg>13</UpDmg>
+        <LowDmg>9</LowDmg>
+        <Armor>6</Armor>
+        <Dodge>25</Dodge>
+        <Hit>5</Hit>
+        <Will>80</Will>
+        <Initiative>5</Initiative>
+        <FireRes>49</FireRes>
+        <ColdRes>49</ColdRes>
+        <NatureRes>42</NatureRes>
+        <ShadowRes>48</ShadowRes>
+        <HolyRes>40</HolyRes>
+        <CritChanse>20</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>elf</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Scout</Name>
+        <Ability>ShadowStep</Ability>
+        <Ability>CloakOfShadows</Ability>
+        <Ability>PoisonTouch</Ability>
+</Stats>

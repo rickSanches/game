@@ -1,0 +1,21 @@
+<Stats>
+        <HP>95</HP>
+        <UpDmg>15</UpDmg>
+        <LowDmg>10</LowDmg>
+        <Armor>5</Armor>
+        <Dodge>10</Dodge>
+        <Hit>5</Hit>
+        <Will>10</Will>
+        <Initiative>3</Initiative>
+        <FireRes>15</FireRes>
+        <ColdRes>15</ColdRes>
+        <NatureRes>20</NatureRes>
+        <ShadowRes>15</ShadowRes>
+        <HolyRes>20</HolyRes>
+        <CritChanse>10</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>undead</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Skeleton</Name>
+</Stats>

@@ -1,0 +1,23 @@
+<Stats>
+        <HP>95</HP>
+        <UpDmg>15</UpDmg>
+        <LowDmg>10</LowDmg>
+        <Armor>12</Armor>
+        <Dodge>10</Dodge>
+        <Hit>5</Hit>
+        <Will>50</Will>
+        <Initiative>5</Initiative>
+        <FireRes>45</FireRes>
+        <ColdRes>45</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>20</HolyRes>
+        <CritChanse>15</CritChanse>
+        <CounterAttack>2</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>undead</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Vampire</Name>
+        <Ability>VampiricAura</Ability>
+        <Ability>Consume</Ability>
+</Stats>

@@ -1,0 +1,22 @@
+<Stats>
+        <HP>95</HP>
+        <UpDmg>25</UpDmg>
+        <LowDmg>15</LowDmg>
+        <Armor>3</Armor>
+        <Dodge>15</Dodge>
+        <Hit>3</Hit>
+        <Will>50</Will>
+        <Initiative>7</Initiative>
+        <FireRes>15</FireRes>
+        <ColdRes>15</ColdRes>
+        <NatureRes>10</NatureRes>
+        <ShadowRes>5</ShadowRes>
+        <HolyRes>20</HolyRes>
+        <CritChanse>15</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>true</Range>
+        <TypeRace>human</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Ranger</Name>
+        <Ability>ArmorDecrease</Ability>
+</Stats>

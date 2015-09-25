@@ -1,0 +1,24 @@
+<Stats>
+        <HP>75</HP>
+        <UpDmg>8</UpDmg>
+        <LowDmg>1</LowDmg>
+        <Armor>1</Armor>
+        <Dodge>15</Dodge>
+        <Hit>5</Hit>
+        <Will>70</Will>
+        <Initiative>3</Initiative>
+        <FireRes>25</FireRes>
+        <ColdRes>25</ColdRes>
+        <NatureRes>20</NatureRes>
+        <ShadowRes>25</ShadowRes>
+        <HolyRes>20</HolyRes>
+        <CritChanse>15</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>true</Range>
+        <TypeRace>elf</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>Oracle</Name>
+        <Ability>ChangedRoots</Ability>
+        <Ability>Heal</Ability>
+        <Ability>DecraseMagic</Ability>
+</Stats>

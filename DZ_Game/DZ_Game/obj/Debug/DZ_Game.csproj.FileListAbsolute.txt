@@ -1,0 +1,6 @@
+c:\users\vladislav.zhovklyy\documents\visual studio 2013\Projects\DZ_Game\DZ_Game\bin\Debug\DZ_Game.exe.config
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\DZ_Game\obj\Debug\DZ_Game.csprojResolveAssemblyReference.cache
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\DZ_Game\bin\Debug\DZ_Game.exe
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\DZ_Game\bin\Debug\DZ_Game.pdb
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\DZ_Game\obj\Debug\DZ_Game.exe
+C:\Users\vladislav.zhovklyy\Documents\Visual Studio 2013\Projects\DZ_Game\DZ_Game\obj\Debug\DZ_Game.pdb

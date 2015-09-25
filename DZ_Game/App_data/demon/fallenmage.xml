@@ -1,0 +1,24 @@
+<Stats>
+        <HP>75</HP>
+        <UpDmg>12</UpDmg>
+        <LowDmg>10</LowDmg>
+        <Armor>5</Armor>
+        <Dodge>3</Dodge>
+        <Hit>4</Hit>
+        <Will>80</Will>
+        <Initiative>4</Initiative>
+        <FireRes>75</FireRes>
+        <ColdRes>35</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>60</HolyRes>
+        <CritChanse>5</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>true</Range>
+        <TypeRace>human</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>FallenMage</Name>
+        <Ability>FireArmor</Ability>
+        <Ability>FireBall</Ability>
+        <Ability>Scorch</Ability>
+</Stats>

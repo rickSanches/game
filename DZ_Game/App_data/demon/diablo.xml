@@ -1,0 +1,22 @@
+<Stats>
+        <HP>155</HP>
+        <UpDmg>30</UpDmg>
+        <LowDmg>23</LowDmg>
+        <Armor>19</Armor>
+        <Dodge>10</Dodge>
+        <Hit>8</Hit>
+        <Will>90</Will>
+        <Initiative>7</Initiative>
+        <FireRes>49</FireRes>
+        <ColdRes>10</ColdRes>
+        <NatureRes>32</NatureRes>
+        <ShadowRes>48</ShadowRes>
+        <HolyRes>20</HolyRes>
+        <CritChanse>15</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>demon</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Diablo</Name>
+        <Ability>DemonicScream</Ability>
+</Stats>

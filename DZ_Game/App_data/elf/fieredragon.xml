@@ -1,0 +1,22 @@
+<Stats>
+        <HP>115</HP>
+        <UpDmg>20</UpDmg>
+        <LowDmg>10</LowDmg>
+        <Armor>15</Armor>
+        <Dodge>15</Dodge>
+        <Hit>10</Hit>
+        <Will>70</Will>
+        <Initiative>5</Initiative>
+        <FireRes>35</FireRes>
+        <ColdRes>45</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>40</HolyRes>
+        <CritChanse>20</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>true</Range>
+        <TypeRace>elf</TypeRace>
+        <TypeOfAttack>magic</TypeOfAttack>
+        <Name>FiereDragon</Name>
+        <Ability>Regen</Ability>
+</Stats>

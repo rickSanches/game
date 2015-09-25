@@ -1,0 +1,22 @@
+<Stats>
+        <HP>95</HP>
+        <UpDmg>19</UpDmg>
+        <LowDmg>15</LowDmg>
+        <Armor>10</Armor>
+        <Dodge>15</Dodge>
+        <Hit>5</Hit>
+        <Will>50</Will>
+        <Initiative>4</Initiative>
+        <FireRes>15</FireRes>
+        <ColdRes>15</ColdRes>
+        <NatureRes>20</NatureRes>
+        <ShadowRes>15</ShadowRes>
+        <HolyRes>20</HolyRes>
+        <CritChanse>15</CritChanse>
+        <CounterAttack>2</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>elf</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Kentaurus</Name>
+        <Ability>StubBolt</Ability>
+</Stats>

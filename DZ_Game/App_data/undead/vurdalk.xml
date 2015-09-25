@@ -1,0 +1,22 @@
+<Stats>
+        <HP>125</HP>
+        <UpDmg>15</UpDmg>
+        <LowDmg>2</LowDmg>
+        <Armor>10</Armor>
+        <Dodge>5</Dodge>
+        <Hit>3</Hit>
+        <Will>20</Will>
+        <Initiative>4</Initiative>
+        <FireRes>15</FireRes>
+        <ColdRes>20</ColdRes>
+        <NatureRes>20</NatureRes>
+        <ShadowRes>45</ShadowRes>
+        <HolyRes>5</HolyRes>
+        <CritChanse>10</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>undead</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Vurdalak</Name>
+        <Ability>Swipe</Ability>
+</Stats>

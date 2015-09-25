@@ -1,0 +1,22 @@
+<Stats>
+        <HP>125</HP>
+        <UpDmg>20</UpDmg>
+        <LowDmg>13</LowDmg>
+        <Armor>10</Armor>
+        <Dodge>10</Dodge>
+        <Hit>5</Hit>
+        <Will>50</Will>
+        <Initiative>5</Initiative>
+        <FireRes>19</FireRes>
+        <ColdRes>19</ColdRes>
+        <NatureRes>12</NatureRes>
+        <ShadowRes>8</ShadowRes>
+        <HolyRes>20</HolyRes>
+        <CritChanse>10</CritChanse>
+        <CounterAttack>1</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>human</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Soldier</Name>
+        <Ability>ShieldWall</Ability>
+</Stats>

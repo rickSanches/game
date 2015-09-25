@@ -1,0 +1,23 @@
+<Stats>
+        <HP>85</HP>
+        <UpDmg>10</UpDmg>
+        <LowDmg>8</LowDmg>
+        <Armor>5</Armor>
+        <Dodge>15</Dodge>
+        <Hit>7</Hit>
+        <Will>80</Will>
+        <Initiative>4</Initiative>
+        <FireRes>30</FireRes>
+        <ColdRes>30</ColdRes>
+        <NatureRes>40</NatureRes>
+        <ShadowRes>15</ShadowRes>
+        <HolyRes>25</HolyRes>
+        <CritChanse>10</CritChanse>
+        <CounterAttack>0</CounterAttack>
+        <Range>false</Range>
+        <TypeRace>elf</TypeRace>
+        <TypeOfAttack>physical</TypeOfAttack>
+        <Name>Druid</Name>
+        <Ability>Renew</Ability>
+        <Ability>BearForm</Ability>
+</Stats>
